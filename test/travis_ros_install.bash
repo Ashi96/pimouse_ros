@@ -1,7 +1,6 @@
 #!/bin/bash -xve
 
 #required packages
-#sudo pip install --upgrade --user pip
 sudo pip install catkin_pkg
 sudo pip install empy
 sudo pip install pyyaml
