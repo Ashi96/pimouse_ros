@@ -10,7 +10,7 @@ project(pimouse_ros)
 find_package(catkin REQUIRED COMPONENTS
   rospy
   std_msgs
-  srd_srvs
+  std_srvs
   message_generation
 )
 
