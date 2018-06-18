@@ -20,3 +20,5 @@ source /opt/ros/indigo/setup.bash
 catkin_init_workspace
 cd ~/catkin_ws
 catkin_make
+
+sudo chmod 666 /dev/rtmotor0
